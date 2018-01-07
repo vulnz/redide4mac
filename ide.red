@@ -1,4 +1,4 @@
- Red [Title: "Simple hello world script" needs: 'view
+ Red [needs: 'view
 ]
 
     labels: [

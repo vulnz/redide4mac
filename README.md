@@ -12,7 +12,9 @@ ide.red - ide source code
 
 Please run "  /.red ide.red" on your terminal and you will start your IDE for MAC.
 
-
+NOTE!
+if your get Permission denied on your run please do: "chmod 777 red"
+it will allow term to run red.
 
 
 #  List of features

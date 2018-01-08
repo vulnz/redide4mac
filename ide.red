@@ -26,10 +26,6 @@
 
 
 
-
-
-; colors
-
     view [ 
 
 
@@ -45,7 +41,6 @@
 return
 
 
-
 ;tabs
 
         tab-panel 900x600 [
@@ -56,7 +51,6 @@ return
 
 
         ]
-
 
 
         "Project Console " [   t2: area 900x600    { Red [Title: "Simple hello world script"]
@@ -79,14 +73,6 @@ return
                    ]
 
 
-
-
-
-
-;save to path
-
-
-
 return
 
 ;run
@@ -98,7 +84,6 @@ button "Save gui tab" [if sf: request-file/save  [unless suffix? sf [append sf 
        button "Save loaded file" [if sf: request-file/save  [unless suffix? sf [append sf %.red]  write sf t4/text ] ]
        button "Save TODO" [if sf: request-file/save  [unless suffix? sf [append sf %.red]  write sf t3/text ] ]
     return
-
 
       
 ; SAVER

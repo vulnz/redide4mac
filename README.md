@@ -37,6 +37,10 @@ Different tabs ( console and gui example)
 
 Download latest version of Red from official website
 
+If you dont have time to read this, please download compiled version:
+
+https://github.com/vulnz/redide4mac/files/1610352/ide.zip and run it.
+
 
 
 #  Feel free to comment/merge/clone this repo.
